@@ -65,7 +65,7 @@ nav ul li a:hover {
     padding: 10px;
 }
 
-.national-mall-upper-container {
+.boeing747-container {
     padding-top: 100px;
     margin: 50px 100px 50px 100px;
     display: grid;
@@ -74,47 +74,47 @@ nav ul li a:hover {
        background-color: white;
 }
 
-.national-mall-upper-container img {
+.boeing747-container img {
     width: 400px;
     height: 170px;
 }
 
-.national-mall-upper-container p {
+.boeing747-container p {
     padding: 20px;
 }
 
-.ww2 {
+.airplane {
     background-color: #F1F1F1;
     color: black;
     width: 400px;
     height: 500px;
 }
 
-.ww2 h2 {
+.airplane h2 {
     color: green;
     text-align: center;
 }
 
-.indian {
+.boeing777 {
     background-color: #F1F1F1;
     color: black;
     width: 400px;
     height: 500px;
 }
 
-.indian h2 {
+.boeing777 h2 {
     color: blue;
     text-align: center;
 }
 
-.african {
+.b737max {
     background-color: #F1F1F1;
     color: black;
     width: 400px;
     height: 500px;
 }
 
-.african h2 {
+.b737max h2 {
     color: #852406;
     text-align: center;
 }
