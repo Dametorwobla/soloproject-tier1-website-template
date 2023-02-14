@@ -152,7 +152,7 @@ nav ul li a:hover {
 
 .tidal-basin-header {
     padding-top: 150px;
-    background-image: url(https://images.unsplash.com/photo-1554438678-904c9b6bc771?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8dGlkYWwlMjBiYXNpbiUyMGNoZXJyeSUyMGJsb3Nzb21zfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+    background-image: url(img/beluga.jpg);
     height: 40vh;
     background-size: 1700px;
     width: 100%;
@@ -208,7 +208,7 @@ nav ul li a:hover {
 }
 
 .contact-header {
-    background-image: url(https://images.unsplash.com/photo-1467251589161-f9c68fa14c59?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+    background-image: url(img/klm.jpg);
     height: 80vh;
     background-size: 1700px;
     width: 100%;
