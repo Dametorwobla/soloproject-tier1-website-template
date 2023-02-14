@@ -22,8 +22,12 @@ Footer added, containing developer information.
 
 **Developer console shows no errors**
 
+This site is built and deployed using netlify
+
+site url: chingusoloproject.netlify.app
+
 CHINGU member: David Ametorwobla
 
 dametorwobla (GitHub)
 
-therealDave9205 (Discord)
+therealDave#9205 (Discord)
