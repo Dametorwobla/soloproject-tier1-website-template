@@ -70,6 +70,7 @@ nav ul li a:hover {
     margin: 50px 100px 50px 100px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 20px;
     align-items: center;
        background-color: white;
 }
@@ -120,7 +121,7 @@ nav ul li a:hover {
 }
 
 
-.national-mall-lower-container {
+.sully-container {
     padding-top: 20px;
     margin: 50px 100px 50px 100px;
     display: grid;
@@ -129,12 +130,12 @@ nav ul li a:hover {
        background-color: white;
 }
 
-.national-mall-lower-container img {
+.sully-container img {
     width: 600px;
     height: 300px;
 }
 
-.national-mall-lower-container p {
+.sully-container p {
     padding: 20px;
 }
 
@@ -150,7 +151,7 @@ nav ul li a:hover {
     text-align: center;
 }
 
-.tidal-basin-header {
+.airbus-header {
     padding-top: 150px;
     background-image: url(img/beluga.jpg);
     height: 40vh;
@@ -162,13 +163,13 @@ nav ul li a:hover {
     text-align: center;
 }
 
-.tidal-basin-header h2 {
+.airbus-header h2 {
     font-size: 450%;
     color: #FFFFFF;
     text-shadow: 5px 5px #000;
 }
 
-.tidal-basin-container {
+.factory-container {
     margin: 100px 100px 100px 100px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -177,12 +178,12 @@ nav ul li a:hover {
     background-color: white;
 }
 
-.tidal-basin-container img {
+.factory-container img {
     width: 300px;
     height: 250px;
 }
 
-.tidal-basin-content {
+.factory-content {
     text-align: center;
     background-color: #F1F1F1;
     color: black;
