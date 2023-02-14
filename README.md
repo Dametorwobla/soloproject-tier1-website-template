@@ -8,7 +8,9 @@ This website clone was created using Vanilla/Plain HTML5, and CSS.
 
 HTML containers are used for each section.
 
-Design and image elements (primarily from Unsplash and Pixabay) are assembled to support a "Tour of Washington, D.C." theme.
+Design and image elements (primarily from google images and wallpaperswide) are assembled to support an "aircraft" theme.
+
+The site tend to give latest news on aviation and aircraft
 
 CCS Grid was used in portions of the design.
 
